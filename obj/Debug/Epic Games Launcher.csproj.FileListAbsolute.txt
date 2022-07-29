@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Epic Games Launcher\obj\Debug\Epic_Games_Launcher.Form1.resources
+C:\Users\User\source\repos\Epic Games Launcher\obj\Debug\Epic_Games_Launcher.Properties.Resources.resources
+C:\Users\User\source\repos\Epic Games Launcher\obj\Debug\Epic Games Launcher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Epic Games Launcher\obj\Debug\Epic Games Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Epic Games Launcher\bin\Debug\Epic Games Launcher.exe
+C:\Users\User\source\repos\Epic Games Launcher\bin\Debug\Epic Games Launcher.pdb
+C:\Users\User\source\repos\Epic Games Launcher\obj\Debug\Epic Games Launcher.exe
+C:\Users\User\source\repos\Epic Games Launcher\obj\Debug\Epic Games Launcher.pdb
